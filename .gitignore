@@ -1,0 +1,8 @@
+.vs/
+/Customer.FeatureStateService.BFF/SnelStart.Customer.FeatureStateService.BFF.Api/obj/Debug/netcoreapp3.1
+/Customer.FeatureStateService.BFF/SnelStart.Customer.FeatureStateService.BFF.Api/bin/Debug/netcoreapp3.1
+/Customer.FeatureStateService.BFF/SnelStart.Customer.FeatureStateService.BFF.Api/obj
+/Customer.FeatureStateService.BFF/SnelStart.Customer.FeatureStateService.BFF.Api.Tests/bin/Debug/net5.0
+/Customer.FeatureStateService.BFF/SnelStart.Customer.FeatureStateService.BFF.Api.Tests/obj
+/Snelstart.Web.Customer.FeatureService/Snelstart.Web.Customer.FeatureService
+/Customer.FeatureStateService/SnelStart.Customer.FeatureStateService.Notification/.gitignore
